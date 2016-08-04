@@ -1,0 +1,67 @@
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.pdb
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.GenerateResource.Cache
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.Principal.resources
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaClientes.resources
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaProductos.resources
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaVentas.resources
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaVentasMantenedor.resources
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaInformeMensual.resources
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaInformeStock.resources
+C:\Users\xD\Documents\Visual Studio 2012\Projects\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaMasVendido.resources
+G:\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+G:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+G:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.pdb
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.Principal.resources
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaClientes.resources
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaInformeMensual.resources
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaInformeStock.resources
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaMasVendido.resources
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaProductos.resources
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaVentas.resources
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaVentasMantenedor.resources
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\xD\Desktop\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.GenerateResource.Cache
+F:\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb
+F:\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe
+F:\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.pdb
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csprojResolveAssemblyReference.cache
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.Principal.resources
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaClientes.resources
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaInformeMensual.resources
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaInformeStock.resources
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaMasVendido.resources
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaProductos.resources
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaVentas.resources
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaVentasMantenedor.resources
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+F:\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe.config
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.exe
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.pdb
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.exe
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\bin\Debug\SistemaDeVentas.pdb
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.Principal.resources
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaClientes.resources
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaInformeMensual.resources
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaInformeStock.resources
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaMasVendido.resources
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaProductos.resources
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaVentas.resources
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Presentacion.VnaVentasMantenedor.resources
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.Properties.Resources.resources
+C:\Users\Hector\Desktop\pait\SistemaDeVentas\SistemaDeVentas\obj\Debug\SistemaDeVentas.csproj.GenerateResource.Cache
